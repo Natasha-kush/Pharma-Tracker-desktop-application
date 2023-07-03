@@ -10,6 +10,9 @@ The application is built using Java, Java Swing, NetBeans, a database, Jdk, and 
 Here are some of the benefits of using PharmaTrack:
 
 Improved inventory management: PharmaTrack allows pharmacies to track their inventory levels in real time. This helps to ensure that they always have the right amount of medicine in stock.
+
 Increased sales: PharmaTrack makes it easy for pharmacies to sell medicine. The application has a built-in billing module that allows pharmacies to create and print bills quickly and easily.
+
 Better customer service: PharmaTrack can help pharmacies provide better customer service. The application has a built-in search function that allows customers to quickly find the medicine they are looking for.
+
 If you are a pharmacy owner or manager, PharmaTrack is a valuable tool that can help you improve your business. The application is easy to use and can help you save time and money.
