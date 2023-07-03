@@ -1,5 +1,6 @@
 # Pharma-Tracker-web-application
 PharmaTrack is a Java application that helps pharmacies manage their inventory, sales, and customers. The application has a splash screen, login form, and three tabs: Medicine, Companies, and Billing. It is built using Java, Java Swing, NetBeans, a database, Jdk, and jre. 
+
 PharmaTrack is a Java application that helps pharmacies manage their inventory, sales, and customers. The application starts with a splash screen, followed by a login form. If the user's credentials are valid, they are taken to the main form. The main form has three tabs: Medicine, Companies, and Billing.
 
 The Medicine tab allows users to add, edit, delete, and view medicine stock. The Companies tab allows users to add, edit, and delete companies that provide medicine to the pharmacy. The Billing tab allows users to sell medicine and print a bill to the client.
