@@ -17,4 +17,5 @@ Better customer service: PharmaTrack can help pharmacies provide better customer
 
 If you are a pharmacy owner or manager, PharmaTrack is a valuable tool that can help you improve your business. The application is easy to use and can help you save time and money.
 
+https://github.com/Natasha-kush/Pharma-Tracker-desktop-application/assets/84273323/6c360396-393a-4068-84a8-b8d8a6c3c530
 
