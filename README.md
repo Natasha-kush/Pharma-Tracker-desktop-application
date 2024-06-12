@@ -17,6 +17,5 @@ Increased sales: PharmaTrack makes it easy for pharmacies to sell medicine. The 
 Better customer service: PharmaTrack can help pharmacies provide better customer service. The application has a built-in search function that allows customers to quickly find the medicine they are looking for.
 
 If you are a pharmacy owner or manager, PharmaTrack is a valuable tool that can help you improve your business. The application is easy to use and can help you save time and money.
-Demo video -
 https://github.com/Natasha-kush/Pharma-Tracker-desktop-application/assets/84273323/6c360396-393a-4068-84a8-b8d8a6c3c530
 
